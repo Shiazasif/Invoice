@@ -1,2 +1,0 @@
-pyinvoice==0.1.7
-streamlit==1.9.2
