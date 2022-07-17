@@ -1,0 +1,4 @@
+fpdf==1.7.2
+pyinvoice==0.1.7
+requests==2.27.1
+streamlit==1.9.2
